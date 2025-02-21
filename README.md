@@ -13,3 +13,6 @@ DURATION     : 4 WEEKS
 MENTOR       : NEELA SANTOSH
 
 ## I HAVE LEARN MANY THING IN CREATING THIS PROJECT I HAVE USED NXT WAVE PLATFORM TO CODE CHECKING IT.
+
+##OUTPUT  :
+             ![Image](https://github.com/user-attachments/assets/48da6a94-4c0f-470f-a496-30799d5caf68)
